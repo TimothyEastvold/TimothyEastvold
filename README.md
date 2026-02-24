@@ -1,6 +1,6 @@
-## Hi, I'm Timothy Eastvold
+## Developer Extraordinaire!
 
-Developer based in Minnesota. I build web apps, data pipelines, and AI-powered tools.
+I build web apps, data pipelines, and AI-powered tools.
 
 ## Recently Building
 
