@@ -1,7 +1,6 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- [playground](https://github.com/TimothyEastvold/playground) — 2026-02-24
 - Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-02-23
 - Personal dotfiles managed with chezmoi `private` — 2026-01-28
 - Learning about ACP with a basic implementation. `private` — 2026-01-09
