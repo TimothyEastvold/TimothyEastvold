@@ -1,7 +1,3 @@
-## Developer Extraordinaire!
-
-I build web apps, data pipelines, and AI-powered tools.
-
 ## Recently Building
 
 <!-- recent_repos starts -->
