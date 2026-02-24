@@ -5,16 +5,31 @@ Developer based in Minnesota. I build web apps, data pipelines, and AI-powered t
 ## Recently Building
 
 <!-- recent_repos starts -->
+- [playground](https://github.com/TimothyEastvold/playground) — 2026-02-24
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-02-23
+- Personal dotfiles managed with chezmoi `private` — 2026-01-28
+- Learning about ACP with a basic implementation. `private` — 2026-01-09
+- A basic CRUD app for the Bee AI `private` — 2025-07-01
 <!-- recent_repos ends -->
 
 ## Recently Starred
 
 <!-- recent_stars starts -->
+- [microsoft/RPG-ZeroRepo](https://github.com/microsoft/RPG-ZeroRepo)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE): Proxmox VE Helper-Scripts (Community Edition)
+- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web): JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
+- [sergiokas/Extensity](https://github.com/sergiokas/Extensity): Quickly enable/disable Google Chrome extensions
+- [sequoia-hope/large_format_laser_cutter](https://github.com/sequoia-hope/large_format_laser_cutter): A laser cutter designed for cutting fabric. Because it is so large, it can hide under your rug when not in use.
 <!-- recent_stars ends -->
 
 ## Notes & Learning
 
 <!-- recent_notes starts -->
+- **Agentic Commerce Protocol** `general` — 2026-01-31
+- **Cloudflare Api Access** `devops` — 2026-01-31
+- **Cloudflare** `devops` — 2026-01-31
+- **Remote Docker Dev** `devops` — 2026-01-31
+- **Claude Code Automation** `ai` — 2026-01-07
 <!-- recent_notes ends -->
 
 ---
