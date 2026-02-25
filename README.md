@@ -1,7 +1,7 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-02-23
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-02-25
 - Personal dotfiles managed with chezmoi `private` — 2026-01-28
 - Learning about ACP with a basic implementation. `private` — 2026-01-09
 - A basic CRUD app for the Bee AI `private` — 2025-07-01
@@ -20,11 +20,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
+- **Claude Code Persistent Oauth Setup** `devops` — 2026-02-17
+- **Postgresql Testing** `web-dev` — 2026-02-17
+- **Mcp Servers Claude Code** `devops` — 2026-02-13
+- **Wsl Mcp Setup** `devops` — 2026-02-13
 - **Agentic Commerce Protocol** `general` — 2026-01-31
-- **Cloudflare Api Access** `devops` — 2026-01-31
-- **Cloudflare** `devops` — 2026-01-31
-- **Remote Docker Dev** `devops` — 2026-01-31
-- **Claude Code Automation** `ai` — 2026-01-07
 <!-- recent_notes ends -->
 
 ---
