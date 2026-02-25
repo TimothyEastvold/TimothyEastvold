@@ -20,11 +20,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Custom Cuda Kernels Huggingface Agent Skill** `ai` — 2026-02-25
-- **Cloudrouter Evaluation** `general` — 2026-02-25
+- **Agentic Commerce Protocol** `general` — 2026-02-25
 - **Anthropic Acquires Vercept   Computer Use (Anthropic Blog)** `ai` — 2026-02-25
-- **Anthropic Knowledge Work Plugins   Enterprise Search (Github)** `ai` — 2026-02-25
-- **Anthropic Knowledge Work Plugins   Overview (Github)** `ai` — 2026-02-25
+- **Consistent Llm Classification Technique (Substack)** `ai` — 2026-02-25
+- **Verbalized Sampling   Llm Creativity Technique (Venturebeat)** `ai` — 2026-02-25
+- **Claude Code Automation** `ai` — 2026-02-25
 <!-- recent_notes ends -->
 
 ---
