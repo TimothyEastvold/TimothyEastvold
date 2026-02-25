@@ -20,11 +20,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Agentic Commerce Protocol** `general` — 2026-01-31
-- **Cloudflare Api Access** `devops` — 2026-01-31
-- **Cloudflare** `devops` — 2026-01-31
-- **Remote Docker Dev** `devops` — 2026-01-31
-- **Claude Code Automation** `ai` — 2026-01-07
+- **Anthropic Acquires Vercept   Computer Use (Anthropic Blog)** `ai` — 2026-02-25
+- **Anthropic Knowledge Work Plugins   Enterprise Search (Github)** `ai` — 2026-02-25
+- **Anthropic Knowledge Work Plugins   Overview (Github)** `ai` — 2026-02-25
+- **Claude Code Creator Boris Cherny Workflow (Venturebeat)** `ai` — 2026-02-25
+- **Claude Code Transcripts   Simon Willison (Blog)** `ai` — 2026-02-25
 <!-- recent_notes ends -->
 
 ---
