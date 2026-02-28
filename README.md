@@ -10,7 +10,7 @@
 ## Recently Starred
 
 <!-- recent_stars starts -->
-- [microsoft/RPG-ZeroRepo](https://github.com/microsoft/RPG-ZeroRepo)
+- [microsoft/RPG-ZeroRepo](https://github.com/microsoft/RPG-ZeroRepo): [ICLR 2026] Official repository for RPG-ZeroRepo and the RPG series of works.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE): Proxmox VE Helper-Scripts (Community Edition)
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web): JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [sergiokas/Extensity](https://github.com/sergiokas/Extensity): Quickly enable/disable Google Chrome extensions
