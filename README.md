@@ -1,8 +1,8 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal voice/style cloning LLM - fine-tuning Qwen 3.5 to write professional emails `private` — 2026-03-06
 - Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-03-06
+- Personal voice/style cloning LLM - fine-tuning Qwen 3.5 to write professional emails `private` — 2026-03-06
 - Personal dotfiles managed with chezmoi `private` — 2026-02-28
 - Learning about ACP with a basic implementation. `private` — 2026-01-09
 - A basic CRUD app for the Bee AI `private` — 2025-07-01
@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Agentic Commerce Protocol** `general` — 2026-01-31
-- **Cloudflare Api Access** `devops` — 2026-01-31
-- **Cloudflare** `devops` — 2026-01-31
-- **Remote Docker Dev** `devops` — 2026-01-31
-- **Claude Code Automation** `ai` — 2026-01-07
+- **Agentic Commerce Protocol** `general` — 2026-02-25
+- **Anthropic Acquires Vercept   Computer Use (Anthropic Blog)** `ai` — 2026-02-25
+- **Consistent Llm Classification Technique (Substack)** `ai` — 2026-02-25
+- **Verbalized Sampling   Llm Creativity Technique (Venturebeat)** `ai` — 2026-02-25
+- **Claude Code Automation** `ai` — 2026-02-25
 <!-- recent_notes ends -->
 
 ---
