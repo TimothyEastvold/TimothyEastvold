@@ -1,7 +1,7 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-03-03
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-03-06
 - Personal dotfiles managed with chezmoi `private` — 2026-02-28
 - Learning about ACP with a basic implementation. `private` — 2026-01-09
 - A basic CRUD app for the Bee AI `private` — 2025-07-01
