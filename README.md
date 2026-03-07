@@ -11,11 +11,11 @@
 ## Recently Starred
 
 <!-- recent_stars starts -->
-- [microsoft/RPG-ZeroRepo](https://github.com/microsoft/RPG-ZeroRepo): [ICLR 2026] RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE): Proxmox VE Helper-Scripts (Community Edition)
-- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web): JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
-- [sergiokas/Extensity](https://github.com/sergiokas/Extensity): Quickly enable/disable Google Chrome extensions
-- [sequoia-hope/large_format_laser_cutter](https://github.com/sequoia-hope/large_format_laser_cutter): A laser cutter designed for cutting fabric. Because it is so large, it can hide under your rug when not in use.
+- [microsoft/apm](https://github.com/microsoft/apm): Agent Package Manager
+- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel): Integrate cutting-edge LLM technology quickly and easily into your apps
+- [microsoft/terminal](https://github.com/microsoft/terminal): The new Windows Terminal and the original Windows console host, all in the same place!
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys): Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+- [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
 <!-- recent_stars ends -->
 
 ## Notes & Learning
