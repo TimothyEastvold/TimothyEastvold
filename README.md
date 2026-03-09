@@ -21,11 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Agentic Commerce Protocol** `general` — 2026-02-25
-- **Anthropic Acquires Vercept   Computer Use (Anthropic Blog)** `ai` — 2026-02-25
-- **Consistent Llm Classification Technique (Substack)** `ai` — 2026-02-25
-- **Verbalized Sampling   Llm Creativity Technique (Venturebeat)** `ai` — 2026-02-25
-- **Claude Code Automation** `ai` — 2026-02-25
+*No recent notes*
 <!-- recent_notes ends -->
 
 ---
