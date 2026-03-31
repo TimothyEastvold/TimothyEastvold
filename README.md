@@ -1,11 +1,11 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
+- [claude-code](https://github.com/TimothyEastvold/claude-code) — 2026-03-31
 - [deeplinkme](https://github.com/TimothyEastvold/deeplinkme): Chrome extension + PowerShell handler for Claude Code deeplinks — 2026-03-30
 - [cc](https://github.com/TimothyEastvold/cc): Claude Code deep link redirect for email briefings — 2026-03-30
 - Personal dotfiles managed with chezmoi `private` — 2026-03-25
 - Personal voice/style cloning LLM - fine-tuning Qwen 3.5 to write professional emails `private` — 2026-03-12
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-03-09
 <!-- recent_repos ends -->
 
 ## Recently Starred
