@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-*No recent notes*
+*Notes unavailable*
 <!-- recent_notes ends -->
 
 ---
