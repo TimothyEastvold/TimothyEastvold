@@ -1,11 +1,11 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-04-22
 - Personal article-to-reMarkable pipeline with annotation preservation `private` — 2026-04-14
 - [deeplinkme](https://github.com/TimothyEastvold/deeplinkme): Chrome extension + PowerShell handler for Claude Code deeplinks — 2026-03-31
 - [cc](https://github.com/TimothyEastvold/cc): Claude Code deep link redirect for email briefings — 2026-03-31
 - [claude-code](https://github.com/TimothyEastvold/claude-code) — 2026-03-31
-- Personal dotfiles managed with chezmoi `private` — 2026-03-25
 <!-- recent_repos ends -->
 
 ## Recently Starred
@@ -21,7 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-*No recent notes*
+- **Anthropic** `ai` — 2026-04-22
+- **Google Gemini** `ai` — 2026-04-22
+- **Large Language Model** `ai` — 2026-04-22
+- **Openai** `ai` — 2026-04-22
+- **All Your Agents Are Going Async** `ai` — 2026-04-22
 <!-- recent_notes ends -->
 
 ---
