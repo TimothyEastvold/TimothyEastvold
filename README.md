@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
+- **Gpt 5 4 Announcement 2026 03 06 Simon Willison** `ai` — 2026-04-22
 - **Anthropic** `ai` — 2026-04-22
 - **Google Gemini** `ai` — 2026-04-22
 - **Large Language Model** `ai` — 2026-04-22
 - **Openai** `ai` — 2026-04-22
-- **All Your Agents Are Going Async** `ai` — 2026-04-22
 <!-- recent_notes ends -->
 
 ---
