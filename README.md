@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
+- **Ssh Guide** `devops` — 2026-04-23
 - **Chatgpt Workspace Agents** `ai` — 2026-04-23
 - **Flipbook Generative Visual Browser** `ai` — 2026-04-23
 - **Gpt 5 4 Announcement 2026 03 06 Simon Willison** `ai` — 2026-04-22
 - **Anthropic** `ai` — 2026-04-22
-- **Google Gemini** `ai` — 2026-04-22
 <!-- recent_notes ends -->
 
 ---
