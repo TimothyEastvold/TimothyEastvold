@@ -1,7 +1,7 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-04-23
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-04-24
 - Personal article-to-reMarkable pipeline with annotation preservation `private` — 2026-04-14
 - [deeplinkme](https://github.com/TimothyEastvold/deeplinkme): Chrome extension + PowerShell handler for Claude Code deeplinks — 2026-03-31
 - [cc](https://github.com/TimothyEastvold/cc): Claude Code deep link redirect for email briefings — 2026-03-31
@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Docker Sandbox Sbx** `devops` — 2026-04-23
-- **Linux File Permissions Guide** `devops` — 2026-04-23
-- **Wikipedia Rest Api** `ai` — 2026-04-23
-- **Ssh Guide** `devops` — 2026-04-23
-- **Chatgpt Workspace Agents** `ai` — 2026-04-23
+- **Work Note Client Assignment Handoff** `knowledge-management` — 2026-04-24
+- **Jest In Git Worktrees** `dev-workflows` — 2026-04-23
+- **Nav** `dev-workflows` — 2026-04-23
+- **Parallel Worktree Development** `dev-workflows` — 2026-04-23
+- **Dotfiles Chezmoi** `devops` — 2026-04-23
 <!-- recent_notes ends -->
 
 ---
