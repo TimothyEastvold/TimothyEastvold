@@ -23,7 +23,6 @@
 <!-- recent_notes starts -->
 - **Local Inference For Very Large Models   A Look At Current Options (Reddit)** `ai` — 2026-04-24
 - **Podman Sandboxes · Containerspodman** `devops` — 2026-04-24
-- **Work Note Client Assignment Handoff** `knowledge-management` — 2026-04-24
 <!-- recent_notes ends -->
 
 ---
