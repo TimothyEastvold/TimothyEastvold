@@ -2,10 +2,10 @@
 
 <!-- recent_repos starts -->
 - Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-04-27
+- Personal dotfiles managed with chezmoi `private` — 2026-04-27
 - Personal article-to-reMarkable pipeline with annotation preservation `private` — 2026-04-25
 - [deeplinkme](https://github.com/TimothyEastvold/deeplinkme): Chrome extension + PowerShell handler for Claude Code deeplinks — 2026-03-31
 - [cc](https://github.com/TimothyEastvold/cc): Claude Code deep link redirect for email briefings — 2026-03-31
-- [claude-code](https://github.com/TimothyEastvold/claude-code) — 2026-03-31
 <!-- recent_repos ends -->
 
 ## Recently Starred
