@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-*No recent notes*
+- **Github Mirroring Options** `devops` — 2026-04-28
 <!-- recent_notes ends -->
 
 ---
