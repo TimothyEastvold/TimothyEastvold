@@ -21,7 +21,8 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Github Mirroring Options** `devops` — 2026-04-28
+- **Github Mirroring Options** `devops` — 2026-04-29
+- **Sbx Setup And Architecture** `sbx` — 2026-04-29
 <!-- recent_notes ends -->
 
 ---
