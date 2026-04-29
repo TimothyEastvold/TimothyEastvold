@@ -21,8 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
+- **Claude Design Anthropic Labs** `ai` — 2026-04-29
+- **Claude Design Tips Ryan Mather** `ai` — 2026-04-29
+- **Google Api Keys Gemini Security** `ai` — 2026-04-29
+- **Warp Oz Agent Orchestration** `ai` — 2026-04-29
 - **Github Mirroring Options** `devops` — 2026-04-29
-- **Sbx Setup And Architecture** `sbx` — 2026-04-29
 <!-- recent_notes ends -->
 
 ---
