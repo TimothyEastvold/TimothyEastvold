@@ -1,7 +1,7 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-05-05
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-05-06
 - Personal dotfiles managed with chezmoi `private` — 2026-05-04
 - Personal article-to-reMarkable pipeline with annotation preservation `private` — 2026-04-25
 - [deeplinkme](https://github.com/TimothyEastvold/deeplinkme): Chrome extension + PowerShell handler for Claude Code deeplinks — 2026-03-31
@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
+- **Sbx Setup And Architecture** `sbx` — 2026-05-06
 - **Claude Design Anthropic Labs** `ai` — 2026-04-29
 - **Claude Design Tips Ryan Mather** `ai` — 2026-04-29
 - **Google Api Keys Gemini Security** `ai` — 2026-04-29
 - **Warp Oz Agent Orchestration** `ai` — 2026-04-29
-- **Github Mirroring Options** `devops` — 2026-04-29
 <!-- recent_notes ends -->
 
 ---
