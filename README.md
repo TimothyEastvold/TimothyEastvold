@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Sbx Setup And Architecture** `sbx` — 2026-05-06
-- **Claude Design Anthropic Labs** `ai` — 2026-04-29
-- **Claude Design Tips Ryan Mather** `ai` — 2026-04-29
-- **Google Api Keys Gemini Security** `ai` — 2026-04-29
-- **Warp Oz Agent Orchestration** `ai` — 2026-04-29
+- **Bee Amazon Wearable Ai Evolution** `ai` — 2026-05-08
+- **Bigquery Mcp Server Usage** `ai` — 2026-05-08
+- **Google Cloud Mcp Database Servers** `ai` — 2026-05-08
+- **Google Cloud Mcp Servers Overview** `ai` — 2026-05-08
+- **Google Mcp Support Announcement** `ai` — 2026-05-08
 <!-- recent_notes ends -->
 
 ---
