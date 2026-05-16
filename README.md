@@ -1,7 +1,7 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Private working fork of screenpipe (machine-specific patches; not for general use) `private` — 2026-05-15
+- Private working fork of screenpipe (machine-specific patches; not for general use) `private` — 2026-05-16
 - [screenpipe](https://github.com/TimothyEastvold/screenpipe): Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era — 2026-05-15
 - Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-05-15
 - Personal dotfiles managed with chezmoi `private` — 2026-05-04
