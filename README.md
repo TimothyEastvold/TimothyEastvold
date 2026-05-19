@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Ai Search And Retrieval Overview** `ai` — 2026-05-12
-- **All Your Agents Are Going Async** `agents-and-orchestration` — 2026-05-12
-- **Chartroom   Cli Charting Tool** `agents-and-orchestration` — 2026-05-12
-- **Gas Town   Multi Agent Workspace Manager (Github)** `agents-and-orchestration` — 2026-05-12
-- **Chatgpt Workspace Agents** `agents-and-orchestration` — 2026-05-12
+- **What If Ai Systems Werent Chatbots** `agents-and-orchestration` — 2026-05-19
+- **How Claude Code Works In Large Codebases Best Practices And Where To Start** `claude-code` — 2026-05-19
+- **Awesome Cuda Books** `inference-and-hardware` — 2026-05-19
+- **Cactus Low Latency Ai Engine For Mobile Devices Wearables** `inference-and-hardware` — 2026-05-19
+- **Needle 26M Function Call Model For Incredibly Small Devices** `inference-and-hardware` — 2026-05-19
 <!-- recent_notes ends -->
 
 ---
