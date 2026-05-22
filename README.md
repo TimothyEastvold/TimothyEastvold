@@ -2,10 +2,10 @@
 
 <!-- recent_repos starts -->
 - Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-05-22
+- Personal screenpipe pipes collection. Deterministic fetch + LLM synthesis + deterministic commit. Lives at ~/.screenpipe/pipes/ on the dev machine. `private` — 2026-05-22
 - Private working fork of screenpipe (machine-specific patches; not for general use) `private` — 2026-05-16
 - Personal dotfiles managed with chezmoi `private` — 2026-05-04
 - Personal article-to-reMarkable pipeline with annotation preservation `private` — 2026-04-25
-- [deeplinkme](https://github.com/TimothyEastvold/deeplinkme): Chrome extension + PowerShell handler for Claude Code deeplinks — 2026-03-31
 <!-- recent_repos ends -->
 
 ## Recently Starred
