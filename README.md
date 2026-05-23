@@ -2,7 +2,7 @@
 
 <!-- recent_repos starts -->
 - Personal screenpipe pipes collection. Deterministic fetch + LLM synthesis + deterministic commit. Lives at ~/.screenpipe/pipes/ on the dev machine. `private` — 2026-05-23
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-05-22
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-05-23
 - Private working fork of screenpipe (machine-specific patches; not for general use) `private` — 2026-05-16
 - Personal dotfiles managed with chezmoi `private` — 2026-05-04
 - Personal article-to-reMarkable pipeline with annotation preservation `private` — 2026-04-25
@@ -21,11 +21,9 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **What If Ai Systems Werent Chatbots** `agents-and-orchestration` — 2026-05-19
-- **How Claude Code Works In Large Codebases Best Practices And Where To Start** `claude-code` — 2026-05-19
-- **Awesome Cuda Books** `inference-and-hardware` — 2026-05-19
-- **Cactus Low Latency Ai Engine For Mobile Devices Wearables** `inference-and-hardware` — 2026-05-19
-- **Needle 26M Function Call Model For Incredibly Small Devices** `inference-and-hardware` — 2026-05-19
+- **Small Model Prompt Engineering Screenpipe Gemma 4** `prompts-and-output` — 2026-05-23
+- **Sbx Host Docker App Testing** `dev-workflows` — 2026-05-23
+- **Docker Sandbox Wil Pr Review Setup** `devops` — 2026-05-23
 <!-- recent_notes ends -->
 
 ---
