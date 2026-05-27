@@ -1,9 +1,9 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
+- Personal screenpipe pipes collection. Deterministic fetch + LLM synthesis + deterministic commit. Lives at ~/.screenpipe/pipes/ on the dev machine. `private` — 2026-05-27
 - Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-05-27
 - Private working fork of screenpipe (machine-specific patches; not for general use) `private` — 2026-05-26
-- Personal screenpipe pipes collection. Deterministic fetch + LLM synthesis + deterministic commit. Lives at ~/.screenpipe/pipes/ on the dev machine. `private` — 2026-05-25
 - Personal dotfiles managed with chezmoi `private` — 2026-05-04
 - Personal article-to-reMarkable pipeline with annotation preservation `private` — 2026-04-25
 <!-- recent_repos ends -->
@@ -21,9 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Small Model Prompt Engineering Screenpipe Gemma 4** `prompts-and-output` — 2026-05-23
-- **Sbx Host Docker App Testing** `dev-workflows` — 2026-05-23
-- **Docker Sandbox Wil Pr Review Setup** `devops` — 2026-05-23
+- **Docker Sandbox Wil Pr Review Setup** `devops` — 2026-05-27
 <!-- recent_notes ends -->
 
 ---
