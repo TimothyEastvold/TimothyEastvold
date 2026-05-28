@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Docker Sandbox Wil Pr Review Setup** `devops` — 2026-05-27
+*No recent notes*
 <!-- recent_notes ends -->
 
 ---
