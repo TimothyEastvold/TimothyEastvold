@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-*No recent notes*
+- **Sbx Setup And Architecture** `sbx` — 2026-06-01
 <!-- recent_notes ends -->
 
 ---
