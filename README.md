@@ -21,7 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Sbx Setup And Architecture** `sbx` — 2026-06-01
+- **Anthropic Prompt Caching** `ai` — 2026-06-02
+- **Cloudflare Markdown For Agents** `ai` — 2026-06-02
+- **Http Content Negotiation For Llm Use** `ai` — 2026-06-02
+- **Icce Unsupervised Image Clustering Arxiv 2511 16213** `ai` — 2026-06-02
+- **Knowledge Distillation** `ai` — 2026-06-02
 <!-- recent_notes ends -->
 
 ---
