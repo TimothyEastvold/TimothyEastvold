@@ -21,8 +21,8 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Sbx Setup And Architecture** `sbx` — 2026-06-03
 - **Windows Ai Agent Sandboxing 2026** `devops` — 2026-06-03
+- **Sbx Setup And Architecture** `sbx` — 2026-06-03
 - **Windows Ai Agent Sandboxing 2026 Codex** `devops` — 2026-06-03
 - **Anthropic Prompt Caching** `ai` — 2026-06-02
 - **Cloudflare Markdown For Agents** `ai` — 2026-06-02
