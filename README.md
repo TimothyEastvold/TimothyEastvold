@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Windows Ai Agent Sandboxing 2026** `devops` — 2026-06-03
+*No recent notes*
 <!-- recent_notes ends -->
 
 ---
