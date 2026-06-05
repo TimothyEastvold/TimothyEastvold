@@ -22,7 +22,6 @@
 
 <!-- recent_notes starts -->
 - **Windows Ai Agent Sandboxing 2026** `devops` — 2026-06-03
-- **Sbx Setup And Architecture** `sbx` — 2026-06-03
 <!-- recent_notes ends -->
 
 ---
