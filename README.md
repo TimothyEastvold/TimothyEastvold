@@ -1,8 +1,8 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-06-04
-- Personal screenpipe pipes collection. Deterministic fetch + LLM synthesis + deterministic commit. Lives at ~/.screenpipe/pipes/ on the dev machine. `private` — 2026-06-04
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-06-05
+- Personal screenpipe pipes collection. Deterministic fetch + LLM synthesis + deterministic commit. Lives at ~/.screenpipe/pipes/ on the dev machine. `private` — 2026-06-05
 - Personal dotfiles managed with chezmoi `private` — 2026-06-03
 - Private working fork of screenpipe (machine-specific patches; not for general use) `private` — 2026-05-26
 - Personal article-to-reMarkable pipeline with annotation preservation `private` — 2026-04-25
@@ -23,7 +23,6 @@
 <!-- recent_notes starts -->
 - **Windows Ai Agent Sandboxing 2026** `devops` — 2026-06-03
 - **Sbx Setup And Architecture** `sbx` — 2026-06-03
-- **Windows Ai Agent Sandboxing 2026 Codex** `devops` — 2026-06-03
 <!-- recent_notes ends -->
 
 ---
