@@ -1,7 +1,7 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-06-05
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-06-06
 - Personal screenpipe pipes collection. Deterministic fetch + LLM synthesis + deterministic commit. Lives at ~/.screenpipe/pipes/ on the dev machine. `private` — 2026-06-05
 - Personal dotfiles managed with chezmoi `private` — 2026-06-03
 - Private working fork of screenpipe (machine-specific patches; not for general use) `private` — 2026-05-26
