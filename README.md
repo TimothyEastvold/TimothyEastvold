@@ -21,10 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Local Inference For Very Large Models   A Look At Current Options (Reddit)** `inference-and-hardware` — 2026-06-09
-- **Our Eighth Generation Tpus Two Chips For The Agentic Era** `inference-and-hardware` — 2026-06-09
-- **Tpu 8T And Tpu 8I Technical Deep Dive** `inference-and-hardware` — 2026-06-09
-- **Local Inference Engines Overview** `inference-and-hardware` — 2026-06-09
+*No recent notes*
 <!-- recent_notes ends -->
 
 ---
