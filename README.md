@@ -1,10 +1,10 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
+- Personal screenpipe pipes collection. Deterministic fetch + LLM synthesis + deterministic commit. Lives at ~/.screenpipe/pipes/ on the dev machine. `private` — 2026-06-17
 - Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-06-17
 - [deeplinkme](https://github.com/TimothyEastvold/deeplinkme): Chrome extension + PowerShell handler for Claude Code deeplinks — 2026-06-16
 - [cc](https://github.com/TimothyEastvold/cc): Claude Code deep link redirect for email briefings — 2026-06-16
-- Personal screenpipe pipes collection. Deterministic fetch + LLM synthesis + deterministic commit. Lives at ~/.screenpipe/pipes/ on the dev machine. `private` — 2026-06-15
 - Personal dotfiles managed with chezmoi `private` — 2026-06-03
 <!-- recent_repos ends -->
 
