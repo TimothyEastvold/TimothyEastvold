@@ -21,6 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
+- **Amd Bc 250 Ml Inference Viability** `inference-and-hardware` — 2026-06-22
 - **Claude Code Background Agents** `dev-workflows` — 2026-06-22
 <!-- recent_notes ends -->
 
