@@ -23,7 +23,6 @@
 <!-- recent_notes starts -->
 - **Subagent Driven Feature Build** `dev-workflows` — 2026-06-23
 - **Task Hopper Triage Planning Workflow** `dev-workflows` — 2026-06-23
-- **Budget Novelty Inference Hardware** `inference-and-hardware` — 2026-06-22
 <!-- recent_notes ends -->
 
 ---
