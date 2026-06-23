@@ -1,7 +1,7 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-06-22
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-06-23
 - Personal screenpipe pipes collection. Deterministic fetch + LLM synthesis + deterministic commit. Lives at ~/.screenpipe/pipes/ on the dev machine. `private` — 2026-06-17
 - [deeplinkme](https://github.com/TimothyEastvold/deeplinkme): Chrome extension + PowerShell handler for Claude Code deeplinks — 2026-06-16
 - [cc](https://github.com/TimothyEastvold/cc): Claude Code deep link redirect for email briefings — 2026-06-16
@@ -21,9 +21,10 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
+- **Subagent Driven Feature Build** `dev-workflows` — 2026-06-23
+- **Task Hopper Triage Planning Workflow** `dev-workflows` — 2026-06-23
 - **Budget Novelty Inference Hardware** `inference-and-hardware` — 2026-06-22
 - **Amd Bc 250 Ml Inference Viability** `inference-and-hardware` — 2026-06-22
-- **Claude Code Background Agents** `dev-workflows` — 2026-06-22
 <!-- recent_notes ends -->
 
 ---
