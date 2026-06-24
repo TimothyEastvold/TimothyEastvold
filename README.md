@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **2026 06 06 Best Local Inference Engine For Screenpipe** `inference-and-hardware` — 2026-06-24
-- **2026 06 07 Inference Engine Perf Consensus** `inference-and-hardware` — 2026-06-24
-- **2026 06 08 Cheapest Secure Screenpipe Inference Self Host Vs Api** `inference-and-hardware` — 2026-06-24
-- **2026 06 08 Speculative Decoding Gemma Mac** `inference-and-hardware` — 2026-06-24
-- **2026 06 09 Screenpipe Accelerator And Remote Inference** `inference-and-hardware` — 2026-06-24
+- **Research Fold 2026 06 24** `general` — 2026-06-24
+- **2026 06 23 Andrej Karpathy Karpathy On X** `agentic-engineering-patterns` — 2026-06-24
+- **Andrej Karpathy (@Karpathy) On X** `agentic-engineering-patterns` — 2026-06-24
+- **2026 06 09 Anomalyco Rift Git Worktrees Alternative** `dev-workflows` — 2026-06-24
+- **Anomalyco_Rift** `dev-workflows` — 2026-06-24
 <!-- recent_notes ends -->
 
 ---
