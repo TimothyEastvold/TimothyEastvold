@@ -21,7 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Budget Novelty Inference Hardware** `inference-and-hardware` — 2026-06-24
+- **2026 06 06 Best Local Inference Engine For Screenpipe** `inference-and-hardware` — 2026-06-24
+- **2026 06 07 Inference Engine Perf Consensus** `inference-and-hardware` — 2026-06-24
+- **2026 06 08 Cheapest Secure Screenpipe Inference Self Host Vs Api** `inference-and-hardware` — 2026-06-24
+- **2026 06 08 Speculative Decoding Gemma Mac** `inference-and-hardware` — 2026-06-24
+- **2026 06 09 Screenpipe Accelerator And Remote Inference** `inference-and-hardware` — 2026-06-24
 <!-- recent_notes ends -->
 
 ---
