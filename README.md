@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Research Fold 2026 06 24** `general` — 2026-06-24
-- **2026 06 23 Andrej Karpathy Karpathy On X** `agentic-engineering-patterns` — 2026-06-24
 - **Andrej Karpathy (@Karpathy) On X** `agentic-engineering-patterns` — 2026-06-24
-- **2026 06 09 Anomalyco Rift Git Worktrees Alternative** `dev-workflows` — 2026-06-24
-- **Anomalyco_Rift** `dev-workflows` — 2026-06-24
+- **Devenjarvis Lathe Hands On Technical Tutorials** `agentic-engineering-patterns` — 2026-06-24
+- **Devenjarvislathe Generate Hands On, Multi Part Technical Tutorials On Demand, With Llm Skills Tuned To Make Content Approachable. Then You Work Through Them Yourself, By Hand ✋** `agentic-engineering-patterns` — 2026-06-24
+- **Karpathy Llm Knowledge Bases** `agentic-engineering-patterns` — 2026-06-24
+- **Claude Code And Codex Can Have Real Time Conversation Via Git** `agents-and-orchestration` — 2026-06-24
 <!-- recent_notes ends -->
 
 ---
