@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-*No recent notes*
+- **Budget Novelty Inference Hardware** `inference-and-hardware` — 2026-06-24
 <!-- recent_notes ends -->
 
 ---
