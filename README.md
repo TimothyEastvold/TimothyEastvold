@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Andrej Karpathy (@Karpathy) On X** `agentic-engineering-patterns` — 2026-06-24
-- **Devenjarvis Lathe Hands On Technical Tutorials** `agentic-engineering-patterns` — 2026-06-24
-- **Devenjarvislathe Generate Hands On, Multi Part Technical Tutorials On Demand, With Llm Skills Tuned To Make Content Approachable. Then You Work Through Them Yourself, By Hand ✋** `agentic-engineering-patterns` — 2026-06-24
-- **Karpathy Llm Knowledge Bases** `agentic-engineering-patterns` — 2026-06-24
-- **Claude Code And Codex Can Have Real Time Conversation Via Git** `agents-and-orchestration` — 2026-06-24
+- **Ai Landscape Overview** `ai` — 2026-06-24
+- **Ai Memory And Persistent Context Overview** `ai` — 2026-06-24
+- **Ai Plugins And Connectors Overview** `ai` — 2026-06-24
+- **Ai Search And Retrieval Overview** `ai` — 2026-06-24
+- **Ai Training And Tuning Overview** `ai` — 2026-06-24
 <!-- recent_notes ends -->
 
 ---
