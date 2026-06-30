@@ -22,6 +22,10 @@
 
 <!-- recent_notes starts -->
 - **Deploy User Scoping Playbook** `devops` — 2026-06-26
+- **Ai Landscape Overview** `ai` — 2026-06-24
+- **Ai Memory And Persistent Context Overview** `ai` — 2026-06-24
+- **Ai Plugins And Connectors Overview** `ai` — 2026-06-24
+- **Ai Search And Retrieval Overview** `ai` — 2026-06-24
 <!-- recent_notes ends -->
 
 ---
