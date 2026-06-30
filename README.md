@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Deploy User Scoping Playbook** `devops` — 2026-06-26
-- **Ai Landscape Overview** `ai` — 2026-06-24
-- **Ai Memory And Persistent Context Overview** `ai` — 2026-06-24
-- **Ai Plugins And Connectors Overview** `ai` — 2026-06-24
-- **Ai Search And Retrieval Overview** `ai` — 2026-06-24
+- **What Is Agentic Engineering** `agentic-engineering-patterns` — 2026-06-30
+- **Nvim Cheat Sheet** `dev-workflows` — 2026-06-30
+- **Docker Sandbox Wil Pr Review Setup** `devops` — 2026-06-30
+- **Infrastructure As Code Aimclear Research** `devops` — 2026-06-30
+- **Html In Canvas Use Cases** `web-dev` — 2026-06-30
 <!-- recent_notes ends -->
 
 ---
