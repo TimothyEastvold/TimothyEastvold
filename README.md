@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Infrastructure As Code Aimclear Research** `devops` — 2026-06-30
+- **Infrastructure As Code Aimclear Research** `devops` — 2026-07-01
 - **What Is Agentic Engineering** `agentic-engineering-patterns` — 2026-06-30
 - **Nvim Cheat Sheet** `dev-workflows` — 2026-06-30
 - **Docker Sandbox Wil Pr Review Setup** `devops` — 2026-06-30
