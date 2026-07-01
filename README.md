@@ -1,7 +1,7 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-06-30
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-07-01
 - Personal screenpipe pipes collection. Deterministic fetch + LLM synthesis + deterministic commit. Lives at ~/.screenpipe/pipes/ on the dev machine. `private` — 2026-06-25
 - [deeplinkme](https://github.com/TimothyEastvold/deeplinkme): Chrome extension + PowerShell handler for Claude Code deeplinks — 2026-06-16
 - [cc](https://github.com/TimothyEastvold/cc): Claude Code deep link redirect for email briefings — 2026-06-16
@@ -21,10 +21,10 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
+- **Infrastructure As Code Aimclear Research** `devops` — 2026-06-30
 - **What Is Agentic Engineering** `agentic-engineering-patterns` — 2026-06-30
 - **Nvim Cheat Sheet** `dev-workflows` — 2026-06-30
 - **Docker Sandbox Wil Pr Review Setup** `devops` — 2026-06-30
-- **Infrastructure As Code Aimclear Research** `devops` — 2026-06-30
 - **Html In Canvas Use Cases** `web-dev` — 2026-06-30
 <!-- recent_notes ends -->
 
