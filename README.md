@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Infrastructure As Code Aimclear Research** `devops` — 2026-07-01
+- **Infrastructure As Code Aimclear Research** `devops` — 2026-07-06
 <!-- recent_notes ends -->
 
 ---
