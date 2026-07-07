@@ -21,6 +21,8 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
+- **Auvelity** `personal` — 2026-07-07
+- **Nootropics Stack** `personal` — 2026-07-07
 - **Infrastructure As Code Aimclear Research** `devops` — 2026-07-06
 <!-- recent_notes ends -->
 
