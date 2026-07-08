@@ -1,8 +1,8 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal dotfiles managed with chezmoi `private` — 2026-07-08
 - Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-07-08
+- Personal dotfiles managed with chezmoi `private` — 2026-07-08
 - Personal screenpipe pipes collection. Deterministic fetch + LLM synthesis + deterministic commit. Lives at ~/.screenpipe/pipes/ on the dev machine. `private` — 2026-06-25
 - [deeplinkme](https://github.com/TimothyEastvold/deeplinkme): Chrome extension + PowerShell handler for Claude Code deeplinks — 2026-06-16
 - [cc](https://github.com/TimothyEastvold/cc): Claude Code deep link redirect for email briefings — 2026-06-16
@@ -21,6 +21,8 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
+- **Ssh Lastpass Helpers** `devops` — 2026-07-08
+- **Ssh Lp Crlf Key Corruption Fix** `devops` — 2026-07-08
 - **Auvelity** `personal` — 2026-07-07
 - **Nootropics Stack** `personal` — 2026-07-07
 - **Infrastructure As Code Aimclear Research** `devops` — 2026-07-06
