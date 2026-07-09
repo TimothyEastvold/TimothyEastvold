@@ -23,8 +23,6 @@
 <!-- recent_notes starts -->
 - **Ssh Lastpass Helpers** `devops` — 2026-07-08
 - **Ssh Lp Crlf Key Corruption Fix** `devops` — 2026-07-08
-- **Auvelity** `personal` — 2026-07-07
-- **Nootropics Stack** `personal` — 2026-07-07
 <!-- recent_notes ends -->
 
 ---
