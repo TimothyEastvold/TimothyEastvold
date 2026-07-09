@@ -25,7 +25,6 @@
 - **Ssh Lp Crlf Key Corruption Fix** `devops` — 2026-07-08
 - **Auvelity** `personal` — 2026-07-07
 - **Nootropics Stack** `personal` — 2026-07-07
-- **Infrastructure As Code Aimclear Research** `devops` — 2026-07-06
 <!-- recent_notes ends -->
 
 ---
