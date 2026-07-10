@@ -21,8 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Ssh Lastpass Helpers** `devops` — 2026-07-08
-- **Ssh Lp Crlf Key Corruption Fix** `devops` — 2026-07-08
+- **Andrej Karpathy (@Karpathy) On X** `agentic-engineering-patterns` — 2026-07-10
+- **Harness Engineering Leveraging Codex In An Agent First World** `agentic-engineering-patterns` — 2026-07-10
+- **Sites – Codex  Openai Developers** `agentic-engineering-patterns` — 2026-07-10
+- **Devenjarvis Lathe Hands On Technical Tutorials** `agentic-engineering-patterns` — 2026-07-10
+- **Devenjarvislathe Generate Hands On, Multi Part Technical Tutorials On Demand, With Llm Skills Tuned To Make Content Approachable. Then You Work Through Them Yourself, By Hand ✋** `agentic-engineering-patterns` — 2026-07-10
 <!-- recent_notes ends -->
 
 ---
