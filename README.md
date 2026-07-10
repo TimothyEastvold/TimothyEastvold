@@ -2,8 +2,8 @@
 
 <!-- recent_repos starts -->
 - Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-07-10
+- Personal dotfiles managed with chezmoi `private` — 2026-07-10
 - Private working fork of screenpipe (machine-specific patches; not for general use) `private` — 2026-07-10
-- Personal dotfiles managed with chezmoi `private` — 2026-07-09
 - Personal screenpipe pipes collection. Deterministic fetch + LLM synthesis + deterministic commit. Lives at ~/.screenpipe/pipes/ on the dev machine. `private` — 2026-06-25
 - [deeplinkme](https://github.com/TimothyEastvold/deeplinkme): Chrome extension + PowerShell handler for Claude Code deeplinks — 2026-06-16
 <!-- recent_repos ends -->
@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
+- **Ai Memory And Persistent Context Overview** `ai` — 2026-07-10
+- **Ai Plugins And Connectors Overview** `ai` — 2026-07-10
+- **Ai Search And Retrieval Overview** `ai` — 2026-07-10
 - **Andrej Karpathy (@Karpathy) On X** `agentic-engineering-patterns` — 2026-07-10
 - **Harness Engineering Leveraging Codex In An Agent First World** `agentic-engineering-patterns` — 2026-07-10
-- **Sites – Codex  Openai Developers** `agentic-engineering-patterns` — 2026-07-10
-- **Devenjarvis Lathe Hands On Technical Tutorials** `agentic-engineering-patterns` — 2026-07-10
-- **Devenjarvislathe Generate Hands On, Multi Part Technical Tutorials On Demand, With Llm Skills Tuned To Make Content Approachable. Then You Work Through Them Yourself, By Hand ✋** `agentic-engineering-patterns` — 2026-07-10
 <!-- recent_notes ends -->
 
 ---
