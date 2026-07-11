@@ -1,8 +1,8 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Private working fork of screenpipe (machine-specific patches; not for general use) `private` — 2026-07-11
 - Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-07-11
+- Private working fork of screenpipe (machine-specific patches; not for general use) `private` — 2026-07-11
 - Personal dotfiles managed with chezmoi `private` — 2026-07-11
 - Personal screenpipe pipes collection. Deterministic fetch + LLM synthesis + deterministic commit. Lives at ~/.screenpipe/pipes/ on the dev machine. `private` — 2026-06-25
 - [deeplinkme](https://github.com/TimothyEastvold/deeplinkme): Chrome extension + PowerShell handler for Claude Code deeplinks — 2026-06-16
@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Ai Memory And Persistent Context Overview** `ai` — 2026-07-10
-- **Ai Plugins And Connectors Overview** `ai` — 2026-07-10
-- **Ai Search And Retrieval Overview** `ai` — 2026-07-10
-- **Andrej Karpathy (@Karpathy) On X** `agentic-engineering-patterns` — 2026-07-10
-- **Harness Engineering Leveraging Codex In An Agent First World** `agentic-engineering-patterns` — 2026-07-10
+- **Simon Willison** `agentic-engineering-patterns` — 2026-07-11
+- **Ssh Lastpass Helpers** `devops` — 2026-07-11
+- **Flipbook Generative Visual Browser** `agents-and-orchestration` — 2026-07-11
+- **What If Ai Systems Werent Chatbots** `agents-and-orchestration` — 2026-07-11
+- **Anthropic Prompt Caching** `ai` — 2026-07-11
 <!-- recent_notes ends -->
 
 ---
