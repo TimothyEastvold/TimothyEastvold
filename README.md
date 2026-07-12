@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
+- **Thariq Shihipar** `claude-code` — 2026-07-12
+- **Maarten Grootendorst** `models-and-providers` — 2026-07-12
 - **Simon Willison** `agentic-engineering-patterns` — 2026-07-11
 - **Ssh Lastpass Helpers** `devops` — 2026-07-11
 - **Flipbook Generative Visual Browser** `agents-and-orchestration` — 2026-07-11
-- **What If Ai Systems Werent Chatbots** `agents-and-orchestration` — 2026-07-11
-- **Anthropic Prompt Caching** `ai` — 2026-07-11
 <!-- recent_notes ends -->
 
 ---
