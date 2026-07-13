@@ -1,7 +1,7 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-07-12
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-07-13
 - Private working fork of screenpipe (machine-specific patches; not for general use) `private` — 2026-07-11
 - Personal dotfiles managed with chezmoi `private` — 2026-07-11
 - Personal screenpipe pipes collection. Deterministic fetch + LLM synthesis + deterministic commit. Lives at ~/.screenpipe/pipes/ on the dev machine. `private` — 2026-06-25
@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Thariq Shihipar** `claude-code` — 2026-07-12
-- **Maarten Grootendorst** `models-and-providers` — 2026-07-12
-- **Simon Willison** `agentic-engineering-patterns` — 2026-07-11
-- **Ssh Lastpass Helpers** `devops` — 2026-07-11
-- **Flipbook Generative Visual Browser** `agents-and-orchestration` — 2026-07-11
+- **Ai Plugins And Connectors Overview** `ai` — 2026-07-13
+- **Advertising Hub** `mcp-and-connectors` — 2026-07-13
+- **Browserstack Mcp Server** `mcp-and-connectors` — 2026-07-13
+- **Iac Demo Build Spec Aimclear** `devops` — 2026-07-13
+- **Infrastructure As Code Aimclear Research** `devops` — 2026-07-13
 <!-- recent_notes ends -->
 
 ---
