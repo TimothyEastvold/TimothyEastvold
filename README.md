@@ -1,8 +1,8 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal article-to-reMarkable pipeline with annotation preservation `private` — 2026-07-14
 - Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-07-14
+- Personal article-to-reMarkable pipeline with annotation preservation `private` — 2026-07-14
 - Private working fork of screenpipe (machine-specific patches; not for general use) `private` — 2026-07-11
 - Personal dotfiles managed with chezmoi `private` — 2026-07-11
 - Personal screenpipe pipes collection. Deterministic fetch + LLM synthesis + deterministic commit. Lives at ~/.screenpipe/pipes/ on the dev machine. `private` — 2026-06-25
