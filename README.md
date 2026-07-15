@@ -22,10 +22,6 @@
 
 <!-- recent_notes starts -->
 - **Agent Diagnostic Tooling Candidates** `dev-workflows` — 2026-07-15
-- **Ai Plugins And Connectors Overview** `ai` — 2026-07-13
-- **Advertising Hub** `mcp-and-connectors` — 2026-07-13
-- **Browserstack Mcp Server** `mcp-and-connectors` — 2026-07-13
-- **Iac Demo Build Spec Aimclear** `devops` — 2026-07-13
 <!-- recent_notes ends -->
 
 ---
