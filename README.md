@@ -1,7 +1,7 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-07-14
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-07-15
 - Personal article-to-reMarkable pipeline with annotation preservation `private` — 2026-07-14
 - Private working fork of screenpipe (machine-specific patches; not for general use) `private` — 2026-07-11
 - Personal dotfiles managed with chezmoi `private` — 2026-07-11
@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
+- **Agent Diagnostic Tooling Candidates** `dev-workflows` — 2026-07-15
 - **Ai Plugins And Connectors Overview** `ai` — 2026-07-13
 - **Advertising Hub** `mcp-and-connectors` — 2026-07-13
 - **Browserstack Mcp Server** `mcp-and-connectors` — 2026-07-13
 - **Iac Demo Build Spec Aimclear** `devops` — 2026-07-13
-- **Infrastructure As Code Aimclear Research** `devops` — 2026-07-13
 <!-- recent_notes ends -->
 
 ---
