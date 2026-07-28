@@ -22,10 +22,6 @@
 
 <!-- recent_notes starts -->
 - **P16 Io Latency Diagnosis** `personal` — 2026-07-28
-- **Auditing Exposed Files On Cloudflare Proxied Sites** `devops` — 2026-07-25
-- **Iac Fleet Onboarding Aimclear** `devops` — 2026-07-25
-- **Iac Interview Prep Aimclear** `devops` — 2026-07-25
-- **Infrastructure As Code Aimclear Research** `devops` — 2026-07-25
 <!-- recent_notes ends -->
 
 ---
