@@ -22,10 +22,6 @@
 
 <!-- recent_notes starts -->
 - **Claude Code Status Line Configuration** `dev-workflows` — 2026-08-04
-- **Ai Landscape Overview** `ai` — 2026-07-29
-- **Torvalds On Ai In The Linux Kernel** `ai` — 2026-07-29
-- **Ai Should Help Produce Better Code** `agentic-engineering-patterns` — 2026-07-29
-- **Claude Code Runtime And Orchestration Overview** `claude-code` — 2026-07-29
 <!-- recent_notes ends -->
 
 ---
