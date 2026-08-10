@@ -21,7 +21,10 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Claude Code Status Line Configuration** `dev-workflows` — 2026-08-04
+- **Code Scanning And Sast** `devops` — 2026-08-10
+- **Github Actions** `devops` — 2026-08-10
+- **Sbx Pass Store** `devops` — 2026-08-10
+- **Ssh Lastpass Helpers** `devops` — 2026-08-10
 <!-- recent_notes ends -->
 
 ---
