@@ -1,7 +1,7 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-08-20
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-08-21
 - Personal dotfiles managed with chezmoi `private` — 2026-08-12
 - Personal article-to-reMarkable pipeline with annotation preservation `private` — 2026-08-01
 - Private working fork of screenpipe (machine-specific patches; not for general use) `private` — 2026-07-11
