@@ -21,8 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Code Scanning And Sast** `devops` — 2026-08-10
-- **Github Actions** `devops` — 2026-08-10
+*No recent notes*
 <!-- recent_notes ends -->
 
 ---
