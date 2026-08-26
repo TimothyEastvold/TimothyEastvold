@@ -21,11 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Personal Hub** `personal` — 2026-08-25
-- **Bbdc Barings Bdc** `investing` — 2026-08-25
-- **Ftgc First Trust Global Tactical Commodity** `investing` — 2026-08-25
-- **Nvda Nvidia** `investing` — 2026-08-25
-- **Portfolio Holdings** `investing` — 2026-08-25
+*No recent notes*
 <!-- recent_notes ends -->
 
 ---
