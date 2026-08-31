@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-*No recent notes*
+- **Cross Session Messaging Constraints** `claude-code` — 2026-08-31
 <!-- recent_notes ends -->
 
 ---
