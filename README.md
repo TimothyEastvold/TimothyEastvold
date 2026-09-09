@@ -21,7 +21,9 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-*No recent notes*
+- **Sbx Pass Store** `devops` — 2026-09-09
+- **Ssh Lastpass Helpers** `devops` — 2026-09-09
+- **Ssh Lp Pass Tier Silent Failures** `devops` — 2026-09-09
 <!-- recent_notes ends -->
 
 ---
