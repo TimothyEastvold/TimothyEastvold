@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-*No recent notes*
+- **Sbx Research Ledger** `devops` — 2026-09-24
 <!-- recent_notes ends -->
 
 ---
