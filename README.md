@@ -1,7 +1,7 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-09-27
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-09-28
 - Personal dotfiles managed with chezmoi `private` — 2026-08-27
 - Personal article-to-reMarkable pipeline with annotation preservation `private` — 2026-08-01
 - Private working fork of screenpipe (machine-specific patches; not for general use) `private` — 2026-07-11
@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-*No recent notes*
+- **Ast Tools For Claude Code** `dev-workflows` — 2026-09-26
 <!-- recent_notes ends -->
 
 ---
