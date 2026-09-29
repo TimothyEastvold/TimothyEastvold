@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Ast Tools For Claude Code** `dev-workflows` — 2026-09-26
+*No recent notes*
 <!-- recent_notes ends -->
 
 ---
