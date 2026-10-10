@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Task Hopper Triage Planning Workflow** `dev-workflows` — 2026-10-09
+*No recent notes*
 <!-- recent_notes ends -->
 
 ---
