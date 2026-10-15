@@ -21,11 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Dev Workflows Hub** `dev-workflows` — 2026-10-14
-- **Redesigning Source Control At Anthropic** `dev-workflows` — 2026-10-14
-- **Anthropic Scion Source Control Takeaways** `dev-workflows` — 2026-10-14
-- **Github Mirroring Research 2026 10 14** `devops` — 2026-10-14
-- **Task Hopper Triage Planning Workflow** `dev-workflows` — 2026-10-14
+*No recent notes*
 <!-- recent_notes ends -->
 
 ---
