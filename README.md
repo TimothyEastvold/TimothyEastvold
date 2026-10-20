@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-*No recent notes*
+- **Cloudflare Os** `ai` — 2026-10-20
 <!-- recent_notes ends -->
 
 ---
