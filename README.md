@@ -1,7 +1,7 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-10-20
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-10-21
 - [deeplinkme](https://github.com/TimothyEastvold/deeplinkme): Chrome extension + PowerShell handler for Claude Code deeplinks — 2026-10-08
 - [cc](https://github.com/TimothyEastvold/cc): Claude Code deep link redirect for email briefings — 2026-10-08
 - Personal dotfiles managed with chezmoi `private` — 2026-08-27
@@ -21,7 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Cloudflare Os** `ai` — 2026-10-20
+- **Cloudflare Connect 2026 Hub** `cloudflare-connect-2026` — 2026-10-21
+- **5 Questions Every Cto Must Answer About Ai Agents** `sessions` — 2026-10-21
+- **Accelerate Governance Security And Cost Control With Ai Gateway** `sessions` — 2026-10-21
+- **Adaptive Intelligence Detecting Sophisticated And Persistent Attackers** `sessions` — 2026-10-21
+- **After Human How To Think About Fraud Abuse When Anyone Could Be Anythi** `sessions` — 2026-10-21
 <!-- recent_notes ends -->
 
 ---
