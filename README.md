@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
+- **Behind The Scenes Challenges Of Running Ai Models At Scale** `sessions` — 2026-10-21
 - **Cloudflare Connect 2026 Hub** `cloudflare-connect-2026` — 2026-10-21
+- **Cloudflare Global Network** `cloudflare-connect-2026` — 2026-10-21
 - **5 Questions Every Cto Must Answer About Ai Agents** `sessions` — 2026-10-21
 - **Accelerate Governance Security And Cost Control With Ai Gateway** `sessions` — 2026-10-21
-- **Adaptive Intelligence Detecting Sophisticated And Persistent Attackers** `sessions` — 2026-10-21
-- **After Human How To Think About Fraud Abuse When Anyone Could Be Anythi** `sessions` — 2026-10-21
 <!-- recent_notes ends -->
 
 ---
