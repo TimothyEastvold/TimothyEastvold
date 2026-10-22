@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
+- **Cloudflare Ai Index Private Beta** `devops` — 2026-10-22
+- **Cloudflare Browser Run Crawl Endpoint** `devops` — 2026-10-22
 - **Cloudflare Connect 2026 Hub** `cloudflare-connect-2026` — 2026-10-22
-- **Better Visibility And Control Shining A Light On Shadow Ai** `sessions` — 2026-10-22
-- **Building Durable Agents With Durable Objects** `sessions` — 2026-10-22
-- **Building The Future Of Ai** `sessions` — 2026-10-22
-- **Cloudflare Os Automating Work With Agents Connected To Your Systems** `sessions` — 2026-10-22
+- **Cloudflare Connect 2026 Startups** `cloudflare-connect-2026` — 2026-10-22
+- **Haelo Env Schema Extract** `cloudflare-connect-2026` — 2026-10-22
 <!-- recent_notes ends -->
 
 ---
