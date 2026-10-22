@@ -1,7 +1,7 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-10-21
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-10-22
 - [deeplinkme](https://github.com/TimothyEastvold/deeplinkme): Chrome extension + PowerShell handler for Claude Code deeplinks — 2026-10-08
 - [cc](https://github.com/TimothyEastvold/cc): Claude Code deep link redirect for email briefings — 2026-10-08
 - Personal dotfiles managed with chezmoi `private` — 2026-08-27
@@ -21,11 +21,11 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Behind The Scenes Challenges Of Running Ai Models At Scale** `sessions` — 2026-10-21
-- **Cloudflare Connect 2026 Hub** `cloudflare-connect-2026` — 2026-10-21
-- **Cloudflare Global Network** `cloudflare-connect-2026` — 2026-10-21
-- **5 Questions Every Cto Must Answer About Ai Agents** `sessions` — 2026-10-21
-- **Accelerate Governance Security And Cost Control With Ai Gateway** `sessions` — 2026-10-21
+- **Cloudflare Connect 2026 Hub** `cloudflare-connect-2026` — 2026-10-22
+- **Better Visibility And Control Shining A Light On Shadow Ai** `sessions` — 2026-10-22
+- **Building Durable Agents With Durable Objects** `sessions` — 2026-10-22
+- **Building The Future Of Ai** `sessions` — 2026-10-22
+- **Cloudflare Os Automating Work With Agents Connected To Your Systems** `sessions` — 2026-10-22
 <!-- recent_notes ends -->
 
 ---
