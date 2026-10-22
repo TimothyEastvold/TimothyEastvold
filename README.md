@@ -21,11 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Cloudflare Ai Index Private Beta** `devops` — 2026-10-22
-- **Cloudflare Browser Run Crawl Endpoint** `devops` — 2026-10-22
-- **Cloudflare Connect 2026 Hub** `cloudflare-connect-2026` — 2026-10-22
-- **Cloudflare Connect 2026 Startups** `cloudflare-connect-2026` — 2026-10-22
-- **Haelo Env Schema Extract** `cloudflare-connect-2026` — 2026-10-22
+*No recent notes*
 <!-- recent_notes ends -->
 
 ---
