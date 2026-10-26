@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-*No recent notes*
+- **Cloudflare Connect 2026 Hub** `cloudflare-connect-2026` — 2026-10-26
 <!-- recent_notes ends -->
 
 ---
