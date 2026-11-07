@@ -1,7 +1,7 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-11-06
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-11-07
 - Personal dotfiles managed with chezmoi `private` — 2026-10-29
 - [deeplinkme](https://github.com/TimothyEastvold/deeplinkme): Chrome extension + PowerShell handler for Claude Code deeplinks — 2026-10-08
 - [cc](https://github.com/TimothyEastvold/cc): Claude Code deep link redirect for email briefings — 2026-10-08
@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Cloudflare Connect 2026 Startups** `cloudflare-connect-2026` — 2026-11-06
+*No recent notes*
 <!-- recent_notes ends -->
 
 ---
