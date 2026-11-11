@@ -1,7 +1,7 @@
 ## Recently Building
 
 <!-- recent_repos starts -->
-- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-11-10
+- Personal Obsidian vault - daily notes and cheat sheets `private` — 2026-11-11
 - Personal dotfiles managed with chezmoi `private` — 2026-10-29
 - [deeplinkme](https://github.com/TimothyEastvold/deeplinkme): Chrome extension + PowerShell handler for Claude Code deeplinks — 2026-10-08
 - [cc](https://github.com/TimothyEastvold/cc): Claude Code deep link redirect for email briefings — 2026-10-08
@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-*No recent notes*
+- **Photo Cutout Transparent Background Rembg** `personal` — 2026-11-11
 <!-- recent_notes ends -->
 
 ---
