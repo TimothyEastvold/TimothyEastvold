@@ -21,7 +21,7 @@
 ## Notes & Learning
 
 <!-- recent_notes starts -->
-- **Photo Cutout Transparent Background Rembg** `personal` — 2026-11-11
+*No recent notes*
 <!-- recent_notes ends -->
 
 ---
